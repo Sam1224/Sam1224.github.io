@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D. candidate at Nanyang Technological University"
   location         : "Singapore"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=1jz1_hMAAAAJ&hl=zh-CN"
   email            : "qianxiong.xu@ntu.edu.sg"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
