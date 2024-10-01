@@ -17,7 +17,7 @@ I am always open to research collaborations. Please feel free to drop me an emai
 
 Publications (Selected)
 ======
-(**<sup>*</sup>** denotes corresponding author.)
+(**<sup>*</sup>** corresponding author)
 
 **Conference Papers**
 - **[NIPS'24]** **Qianxiong Xu**, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. Hybrid Mamba for Few-Shot Segmentation.
