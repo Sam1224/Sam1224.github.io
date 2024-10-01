@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Qianxiong Xu"
 title_separator          : "-"
 name                     : &name "Qianxiong Xu"
-description              : &description "Ph.D. Candidate at Nanyang Technological University"
+description              : &description "Research Fellow at S-Lab, NTU"
 url                      : https://sam1224.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Sam1224/Sam1224.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qianxiong Xu"
   avatar           : "avatar.jpg"
-  bio              : "Ph.D. candidate at Nanyang Technological University"
+  bio              : "Research Fellow at S-Lab, NTU"
   location         : "Singapore"
   employer         :
   pubmed           :
