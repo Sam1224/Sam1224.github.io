@@ -20,7 +20,7 @@ Publications (Selected)
 (**<sup>*</sup>** corresponding author)
 
 **Conference Papers**
-- **[NIPS'24]** **Qianxiong Xu**, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. Hybrid Mamba for Few-Shot Segmentation.
+- **[NIPS'24]** **Qianxiong Xu**, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. Hybrid Mamba for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2409.19613)][[Code](https://github.com/Sam1224/HMNet)]
 - **[ECCV'24]** **Qianxiong Xu**, Guosheng Lin, Chen Change Loy, Cheng Long, Ziyue Li, Rui Zhao. Eliminating Feature Ambiguity for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2407.09842)][[Code](https://github.com/Sam1224/AENet)]
 - **[MDM'24]** Chenxi Liu, Yang Sun, **Qianxiong Xu**, Zhishuai Li, Cheng Long, Ziyue Li, Rui Zhao. Spatial-Temporal Large Language Model for Traffic Prediction. [[Paper](https://arxiv.org/pdf/2401.10134)][[Code](https://github.com/ChenxiLiu-HNU/ST-LLM)]
 - **[ICCV'23]** **Qianxiong Xu**, Wenting Zhao, Guosheng Lin, Cheng Long. Self-Calibrated Cross Attention Network for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2308.09294)][[Code](https://github.com/Sam1224/SCCAN)]
