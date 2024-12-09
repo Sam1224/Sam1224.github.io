@@ -20,6 +20,8 @@ Publications (Selected)
 (**<sup>*</sup>** corresponding author)
 
 **Conference Papers**
+- **[AAAI'25]** **Qianxiong Xu**, Cheng Long, Ziyue Li, Sijie Ruan, Rui Zhao, Zhishuai Li. KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy. [[Paper](https://arxiv.org/pdf/2311.02565)][[Code](https://github.com/Sam1224/KITS)]
+- **[AAAI'25]** Chenxi Liu, **Qianxiong Xu<sup>\*</sup>**, Hao Miao, Yang Sun, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment. [[Paper](https://arxiv.org/pdf/2406.01638)]
 - **[WSDM'25]** Qiuyu Zhu, Liang Zhang, **Qianxiong Xu**, Kaijun Liu, Cheng Long, Xiaoyang Wang. HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning. [[Paper](https://arxiv.org/pdf/2407.13158)]
 - **[NIPS'24]** **Qianxiong Xu**, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. Hybrid Mamba for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2409.19613)][[Code](https://github.com/Sam1224/HMNet)]
 - **[ECCV'24]** **Qianxiong Xu**, Guosheng Lin, Chen Change Loy, Cheng Long, Ziyue Li, Rui Zhao. Eliminating Feature Ambiguity for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2407.09842)][[Code](https://github.com/Sam1224/AENet)]
@@ -35,8 +37,7 @@ Publications (Selected)
 
 **Preprint Papers**
 
-- **Qianxiong Xu**, Cheng Long, Ziyue Li, Sijie Ruan, Rui Zhao, Zhishuai Li. KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy. [[Paper](https://arxiv.org/pdf/2311.02565)][[Code](https://github.com/Sam1224/KITS)]
-- Chenxi Liu, **Qianxiong Xu<sup>\*</sup>**, Hao Miao, Yang Sun, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment. [[Paper](https://arxiv.org/pdf/2406.01638)]
+- NA
 
 Service
 ======
