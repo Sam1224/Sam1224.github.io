@@ -21,14 +21,14 @@ Publications (Selected)
 
 **Conference Papers**
 - **[AAAI'25]** **Qianxiong Xu**, Cheng Long, Ziyue Li, Sijie Ruan, Rui Zhao, Zhishuai Li. KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy. [[Paper](https://arxiv.org/pdf/2311.02565)][[Code](https://github.com/Sam1224/KITS)]
-- **[AAAI'25]** Chenxi Liu, **Qianxiong Xu<sup>\*</sup>**, Hao Miao, Yang Sun, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment. [[Paper](https://arxiv.org/pdf/2406.01638)]
+- **[AAAI'25, Oral]** Chenxi Liu, **Qianxiong Xu<sup>\*</sup>**, Hao Miao, Yang Sun, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment. [[Paper](https://arxiv.org/pdf/2406.01638)]
 - **[WSDM'25]** Qiuyu Zhu, Liang Zhang, **Qianxiong Xu**, Kaijun Liu, Cheng Long, Xiaoyang Wang. HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning. [[Paper](https://arxiv.org/pdf/2407.13158)]
 - **[NIPS'24]** **Qianxiong Xu**, Xuanyi Liu, Lanyun Zhu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. Hybrid Mamba for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2409.19613)][[Code](https://github.com/Sam1224/HMNet)]
 - **[ECCV'24]** **Qianxiong Xu**, Guosheng Lin, Chen Change Loy, Cheng Long, Ziyue Li, Rui Zhao. Eliminating Feature Ambiguity for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2407.09842)][[Code](https://github.com/Sam1224/AENet)]
 - **[MDM'24]** Chenxi Liu, Yang Sun, **Qianxiong Xu**, Zhishuai Li, Cheng Long, Ziyue Li, Rui Zhao. Spatial-Temporal Large Language Model for Traffic Prediction. [[Paper](https://arxiv.org/pdf/2401.10134)][[Code](https://github.com/ChenxiLiu-HNU/ST-LLM)]
 - **[ICCV'23]** **Qianxiong Xu**, Wenting Zhao, Guosheng Lin, Cheng Long. Self-Calibrated Cross Attention Network for Few-Shot Segmentation. [[Paper](https://arxiv.org/abs/2308.09294)][[Code](https://github.com/Sam1224/SCCAN)]
 - **[MDM'23]** Kaijun Liu, Sijie Ruan, **Qianxiong Xu**, Cheng Long, Nan Xiao, Nan Hu, Liang Yu, Sinno Jialin Pan. Modeling Trajectories with Multi-task Learning. [[Paper](https://www.cse.cuhk.edu.hk/~sinnopan/publications/[MDM22]Modeling%20Trajectories%20with%20Multi-task%20Learning.pdf)]
-- **[CIKM'22]** **Qianxiong Xu**, Sijie Ruan, Cheng Long, Liang Yu, Chen Zhang. Traffic Speed Imputation with Spatio-Temporal Attentions and Cycle-Perceptual Training. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557480)][[Code](https://github.com/Sam1224/STCPA)]
+- **[CIKM'22, Oral]** **Qianxiong Xu**, Sijie Ruan, Cheng Long, Liang Yu, Chen Zhang. Traffic Speed Imputation with Spatio-Temporal Attentions and Cycle-Perceptual Training. [[Paper](https://dl.acm.org/doi/abs/10.1145/3511808.3557480)][[Code](https://github.com/Sam1224/STCPA)]
 - **[IEEE Cloud'19]** **Qianxiong Xu**, Yu Zheng. A Survey of Image Super Resolution based on CNN. [[Paper](https://eudl.eu/pdf/10.1007/978-3-030-48513-9_15)]
 
 **Journal Papers**
