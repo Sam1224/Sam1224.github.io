@@ -37,10 +37,11 @@ Publications (Selected)
 
 **Preprint Papers**
 
-- NA
+- Qiuyu Zhu, Liang Zhang, **Qianxiong Xu**, Cheng Long. HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks. Arxiv preprint, in submission.
+
 
 Service
 ======
 
-- **Conference Reviewer**: NeurIPS, ICLR, KDD, ICDE, VLDB, CIKM, PAKDD, SIGSPATIAL, WebConf
-- **Journal Reviewer**: TPAMI, TCSVT, GRSL
+- **Conference Reviewer**: CVPR, ICCV, NeurIPS, ICLR, ICML, KDD, ICDE, VLDB, CIKM, PAKDD, SIGSPATIAL, WebConf
+- **Journal Reviewer**: TPAMI, TMM, TKDE, TCSVT, TGRS, GRSL
