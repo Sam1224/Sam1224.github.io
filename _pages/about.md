@@ -20,6 +20,7 @@ Publications (Selected)
 (**<sup>*</sup>** corresponding author)
 
 **Conference Papers**
+- **[CVPR'25]** Lanyun Zhu, Tianrun Chen, **Qianxiong Xu**, Xuanyi Liu, Deyi Ji, Haiyang Wu, De Wen Soh, Jun Liu. POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation.
 - **[AAAI'25]** **Qianxiong Xu**, Cheng Long, Ziyue Li, Sijie Ruan, Rui Zhao, Zhishuai Li. KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy. [[Paper](https://arxiv.org/pdf/2311.02565)][[Code](https://github.com/Sam1224/KITS)]
 - **[AAAI'25, Oral]** Chenxi Liu, **Qianxiong Xu<sup>\*</sup>**, Hao Miao, Yang Sun, Lingzheng Zhang, Cheng Long, Ziyue Li, Rui Zhao. TimeCMA: Towards LLM-Empowered Time Series Forecasting via Cross-Modality Alignment. [[Paper](https://arxiv.org/pdf/2406.01638)]
 - **[WSDM'25]** Qiuyu Zhu, Liang Zhang, **Qianxiong Xu**, Kaijun Liu, Cheng Long, Xiaoyang Wang. HHGT: Hierarchical Heterogeneous Graph Transformer for Heterogeneous Graph Representation Learning. [[Paper](https://arxiv.org/pdf/2407.13158)]
