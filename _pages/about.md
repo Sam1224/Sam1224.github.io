@@ -21,7 +21,7 @@ Publications (Selected)
 
 **Conference Papers**
 - **[ICML'25]** **Qianxiong Xu**, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. Unlocking the Power of SAM 2 for Few-Shot Segmentation.
-- **[IJCAI'25 Survey]** Chenxi Liu, Shaowen Zhou, **Qianxiong Xu**, Hao Miao, Cheng Long, Ziyue Li, Rui Zhao. Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era.
+- **[IJCAI'25 Survey]** Chenxi Liu, Shaowen Zhou, **Qianxiong Xu<sup>*</sup>**, Hao Miao, Cheng Long, Ziyue Li, Rui Zhao. Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era.
 - **[ICDE'25]** Chenxi Liu, Hao Miao, **Qianxiong Xu<sup>*</sup>**, Shaowen Zhou, Cheng Long, Yan Zhao, Ziyue Li, Rui Zhao. Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation.
 - **[CVPR'25]** Lanyun Zhu, Tianrun Chen, **Qianxiong Xu**, Xuanyi Liu, Deyi Ji, Haiyang Wu, De Wen Soh, Jun Liu. POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation.
 - **[AAAI'25]** **Qianxiong Xu**, Cheng Long, Ziyue Li, Sijie Ruan, Rui Zhao, Zhishuai Li. KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy. [[Paper](https://arxiv.org/pdf/2311.02565)][[Code](https://github.com/Sam1224/KITS)]
