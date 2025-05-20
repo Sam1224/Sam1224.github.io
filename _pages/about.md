@@ -37,6 +37,8 @@ Publications (Selected)
 
 **Journal Papers**
 
+- **[TKDE'25]** Chenxi Liu, Kethmi Hirushini Hettige, **Qianxiong Xu<sup>*</sup>**, Cheng Long, Shili Xiang, Gao Cong, Ziyue Li, Rui Zhao. ST-LLM+: Graph Enhanced Spatio-Temporal Large Language Models for Traffic Prediction.
+
 - **[TGRS'23]** **Qianxiong Xu**, Cheng Long, Liang Yu, Chen Zhang. Road Extraction With Satellite Images and Partial Road Maps. [[Paper](https://ieeexplore.ieee.org/abstract/document/10081487)][[Code](https://github.com/Sam1224/P2CNet)]
 
 **Preprint Papers**
