@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Fellow at S-Lab, Nanyang Technological University (NTU), Singapore, working with Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/). I also work closely with Prof. [Guosheng Lin](https://guosheng.github.io/) from NTU, and Prof. [Ziyue Li](https://bonaldli.github.io/) from University of Cologne.
+I am a Research Fellow at CCDS, Nanyang Technological University (NTU), Singapore, working with Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/). I also work closely with Prof. [Guosheng Lin](https://guosheng.github.io/) from NTU, and Prof. [Ziyue Li](https://bonaldli.github.io/) from University of Cologne.
 I received my Ph.D degree from NTU, Singapore, supervised by Prof. [Cheng Long](https://personal.ntu.edu.sg/c.long/). I received my B.S. degree in Software Engineering (Chinese-Foreign Cooperation Program) from Nanjing University of Information Science and Technology (NUIST), Nanjing, China, in 2020, and B.S. (Honours) degree in Software Systems Practice Year 1 (NFQ Level 8 Honours Degree) from South East Technological University (SETU), Ireland, in 2020.
 
 My research directions include Computer Vision and Spatio-Temporal Data Mining. Currently, most of my works are related to Image Segmentation (e.g., Few-Shot Segmentation and Remote Sensing), and Time Series Analysis (e.g., Forecasting, Imputation and Kriging).
