@@ -20,8 +20,10 @@ Publications (Selected)
 (**<sup>*</sup>** corresponding author)
 
 **Conference Papers**
+- **[AAAI'26, Oral]** Qiuyu Zhu, Liang Zhang, **Qianxiong Xu**, Cheng Long, Jie Zhang. SubGCache: Accelerating Graph-based RAG with Subgraph-level KV Cache.
+- **[AAAI'26]** Shuliang Wang, Xiaoting Leng, Sijie Ruan, Dingqi Yang, Yicheng Tang, Qianyu Yang, **Qianxiong Xu**, Jiabao Zhu, Hanning Yuan. Explicit Intent-Enhanced Knowledge Distillation for Trip Recommendation
 - **[ICML'25]** **Qianxiong Xu**, Lanyun Zhu, Xuanyi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. Unlocking the Power of SAM 2 for Few-Shot Segmentation.
-- **[IJCAI'25 Survey]** Chenxi Liu, Shaowen Zhou, **Qianxiong Xu<sup>*</sup>**, Hao Miao, Cheng Long, Ziyue Li, Rui Zhao. Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era.
+- **[IJCAI'25]** Chenxi Liu, Shaowen Zhou, **Qianxiong Xu<sup>*</sup>**, Hao Miao, Cheng Long, Ziyue Li, Rui Zhao. Towards Cross-Modality Modeling for Time Series Analytics: A Survey in the LLM Era.
 - **[ICDE'25]** Chenxi Liu, Hao Miao, **Qianxiong Xu<sup>*</sup>**, Shaowen Zhou, Cheng Long, Yan Zhao, Ziyue Li, Rui Zhao. Efficient Multivariate Time Series Forecasting via Calibrated Language Models with Privileged Knowledge Distillation.
 - **[CVPR'25]** Lanyun Zhu, Tianrun Chen, **Qianxiong Xu**, Xuanyi Liu, Deyi Ji, Haiyang Wu, De Wen Soh, Jun Liu. POPEN: Preference-Based Optimization and Ensemble for LVLM-Based Reasoning Segmentation.
 - **[AAAI'25]** **Qianxiong Xu**, Cheng Long, Ziyue Li, Sijie Ruan, Rui Zhao, Zhishuai Li. KITS: Inductive Spatio-Temporal Kriging with Increment Training Strategy. [[Paper](https://arxiv.org/pdf/2311.02565)][[Code](https://github.com/Sam1224/KITS)]
@@ -38,11 +40,12 @@ Publications (Selected)
 **Journal Papers**
 
 - **[TKDE'25]** Chenxi Liu, Kethmi Hirushini Hettige, **Qianxiong Xu<sup>*</sup>**, Cheng Long, Shili Xiang, Gao Cong, Ziyue Li, Rui Zhao. ST-LLM+: Graph Enhanced Spatio-Temporal Large Language Models for Traffic Prediction.
-
 - **[TGRS'23]** **Qianxiong Xu**, Cheng Long, Liang Yu, Chen Zhang. Road Extraction With Satellite Images and Partial Road Maps. [[Paper](https://ieeexplore.ieee.org/abstract/document/10081487)][[Code](https://github.com/Sam1224/P2CNet)]
 
 **Preprint Papers**
 
+- **Qianxiong Xu**, Lanyun Zhu, Chenxi Liu, Guosheng Lin, Cheng Long, Ziyue Li, Rui Zhao. SAMITE: Position Prompted SAM2 with Calibrated Memory for Visual Object Tracking.
+- Jihua Peng, **Qianxiong Xu**, Yichen Liu, Chenxi Liu, Cheng Long, Rui Zhao, Ziyue Li. Language-Instructed Reasoning for Group Activity Detection via Multimodal Large Language Model.
 - Qiuyu Zhu, Liang Zhang, **Qianxiong Xu**, Cheng Long. HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks. Arxiv preprint, in submission.
 
 
